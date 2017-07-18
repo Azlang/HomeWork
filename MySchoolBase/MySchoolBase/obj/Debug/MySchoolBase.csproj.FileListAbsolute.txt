@@ -1,0 +1,6 @@
+c:\users\xmx\documents\visual studio 2013\Projects\MySchoolBase\MySchoolBase\bin\Debug\MySchoolBase.exe.config
+C:\Users\xmx\Documents\Visual Studio 2013\Projects\MySchoolBase\MySchoolBase\bin\Debug\MySchoolBase.exe
+C:\Users\xmx\Documents\Visual Studio 2013\Projects\MySchoolBase\MySchoolBase\bin\Debug\MySchoolBase.pdb
+C:\Users\xmx\Documents\Visual Studio 2013\Projects\MySchoolBase\MySchoolBase\obj\Debug\MySchoolBase.exe
+C:\Users\xmx\Documents\Visual Studio 2013\Projects\MySchoolBase\MySchoolBase\obj\Debug\MySchoolBase.pdb
+C:\Users\xmx\Documents\Visual Studio 2013\Projects\MySchoolBase\MySchoolBase\obj\Debug\MySchoolBase.csprojResolveAssemblyReference.cache
