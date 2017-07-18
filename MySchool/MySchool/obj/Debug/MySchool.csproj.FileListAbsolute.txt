@@ -1,0 +1,13 @@
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.exe.config
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.exe
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.pdb
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.DAL.dll
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.Model.dll
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.DAL.pdb
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.Model.pdb
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.Form1.resources
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.csproj.GenerateResource.Cache
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.exe
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.pdb

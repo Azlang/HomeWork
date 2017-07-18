@@ -1,0 +1,5 @@
+c:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool.Model\bin\Debug\MySchool.Model.dll
+c:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool.Model\bin\Debug\MySchool.Model.pdb
+c:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool.Model\obj\Debug\MySchool.Model.csprojResolveAssemblyReference.cache
+c:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool.Model\obj\Debug\MySchool.Model.dll
+c:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool.Model\obj\Debug\MySchool.Model.pdb
