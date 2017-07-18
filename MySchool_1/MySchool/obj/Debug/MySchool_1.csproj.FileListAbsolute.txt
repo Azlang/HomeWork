@@ -1,0 +1,12 @@
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.AddForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.AdminForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.MainForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.SeacherForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.UpdatePwdForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool_1.csproj.GenerateResource.Cache
+C:\Users\xmx\Desktop\MySchool\MySchool\bin\Debug\MySchool_1.exe.config
+C:\Users\xmx\Desktop\MySchool\MySchool\bin\Debug\MySchool_1.exe
+C:\Users\xmx\Desktop\MySchool\MySchool\bin\Debug\MySchool_1.pdb
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool_1.exe
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool_1.pdb
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool_1.Properties.Resources.resources

@@ -1,0 +1,23 @@
+c:\users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.exe.config
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.exe
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\bin\Debug\MySchool.pdb
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.AdminForm.resources
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.MainForm.resources
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.csproj.GenerateResource.Cache
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.exe
+C:\Users\xmx\documents\visual studio 2013\Projects\MySchool\MySchool\obj\Debug\MySchool.pdb
+C:\Users\xmx\Desktop\MySchool\MySchool\bin\Debug\MySchool.exe.config
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.exe
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.pdb
+C:\Users\xmx\Desktop\MySchool\MySchool\bin\Debug\MySchool.exe
+C:\Users\xmx\Desktop\MySchool\MySchool\bin\Debug\MySchool.pdb
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.AddForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.AdminForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.MainForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.UpdatePwdForm.resources
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.csproj.GenerateResource.Cache
+C:\Users\xmx\Desktop\MySchool\MySchool\obj\Debug\MySchool.SeacherForm.resources
